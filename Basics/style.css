@@ -1,0 +1,14 @@
+body {
+  background-color: blue;
+}
+section {
+  border: solid black 5px;
+}
+img {
+  border: radius 10px;
+  border: solid red 5px;
+  height: 100px;
+}
+p {
+  color: antiquewhite;
+}
